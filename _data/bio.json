@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Sergei Ievlev",
+    "label": "Qualiti Assurance Engineer",
+    "picture": "https://github.com/sovergen.png",
+    "email": "Ievlev.sk@gmail.com",
+    "phone": "+4917676553142",
+    "website": "https://sergeiievlev.github.io",
+    "summary": "I have over a decade of experience as a Quality Assurance Engineer, specializing in embedded systems testing. My focus is on enhancing the quality of the final product to create the best user experience by developing processes with the team and using proven technologies. I work closely with developers, analysts, and product owners to initiate testing as early as possible, reducing the cost of bugs and minimizing their occurrence.
+I prioritize solving problems through clear communication and am always willing to assist the testing team with their routine and questions related to principles and methodologies. I believe it is crucial to make the testing process results visible to the team. In addition to strong hard skills, I excel at communicating and finding approaches to team members to make our collaboration as comfortable and effective as possible.
+Currently, I am based in Berlin and interested in advancing my career as a Senior QA Engineer or Head of QA.",
+    "location": { "address": "", "postalCode": "10783", "city": "Berlin", "countryCode": "GER", "region": "Berlin" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "sovergen", "url": "http://github.com/sovergen" },
+      { "network": "linkedin", "username": "SergeiIevlev", "url": "https://www.linkedin.com/in/ievlevsergei/" }
     ]
   },
   "interests": [
