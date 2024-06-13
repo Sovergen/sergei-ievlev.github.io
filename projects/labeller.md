@@ -11,5 +11,5 @@ labels:
   - GitHub
 summary: "The Labbeller is a device that simplifies and automates probe marking"
 ---
-<img class="img-fluid" src="../img/Labomatix/labeller-header.png">
+<img class="img-fluid" src="../img/labeller/labeller-header.png">
 
