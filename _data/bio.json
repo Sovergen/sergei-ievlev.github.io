@@ -15,9 +15,8 @@
   },
   "interests": [
     { "name": "Embedded systems" },
-    { "name": "Qualyty assuarance" },
     { "name": "System engineering" },
-    { "name": "Robotics" }
+    { "name": "Hardware" }
   ],
   "skills": [
     {
